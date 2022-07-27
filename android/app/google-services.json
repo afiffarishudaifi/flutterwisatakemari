@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083655742949",
+    "project_id": "wisatakemari-3a34f",
+    "storage_bucket": "wisatakemari-3a34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083655742949:android:75c31cac10afede6a07b0c",
+        "android_client_info": {
+          "package_name": "com.wisatakemari.agsatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083655742949-6hdkr13ec2iu0c4qnbjr05s60u5ehq95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisatakemari.agsatu",
+            "certificate_hash": "4b2fefd87bc5f488afeb09889a15941429e3feaf"
+          }
+        },
+        {
+          "client_id": "1083655742949-m6gi8jd473b9de9euki27drpomdgju82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisatakemari.agsatu",
+            "certificate_hash": "461fddbb0b7b759159394a7b61f3d46489d1224f"
+          }
+        },
+        {
+          "client_id": "1083655742949-u96598njvl11318tlao1tiv36mj881mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByl8sarNYcXNZH4JEFqs6ziFzQ3VHiD5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083655742949-u96598njvl11318tlao1tiv36mj881mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
